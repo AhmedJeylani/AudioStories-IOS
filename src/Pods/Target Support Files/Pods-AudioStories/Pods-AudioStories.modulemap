@@ -1,0 +1,6 @@
+module Pods_AudioStories {
+  umbrella header "Pods-AudioStories-umbrella.h"
+
+  export *
+  module * { export * }
+}
